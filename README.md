@@ -44,3 +44,22 @@ Exercicio7/
 1. Clone este repositório:
    ```bash
    git clone https://github.com/peixotim/menuFloricultura.git
+
+
+📝 Observações
+
+O sistema é totalmente interativo via terminal.
+Ao cadastrar uma planta com estoque abaixo do ideal, o sistema oferece uma opção imediata de reposição com cálculo de custo.
+A quantidade de plantas cadastradas é dinâmica (sem limite fixo).
+
+
+📸 Demonstração
+
+
+========== 🌿 Menu Floricultura 🌿 ==========
+1️⃣  Cadastrar nova planta
+2️⃣  Repor estoque de uma planta
+3️⃣  Consultar planta específica
+4️⃣  Listar todas as plantas
+5️⃣  ❌ Sair
+=============================================
